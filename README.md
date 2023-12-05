@@ -1,7 +1,5 @@
 # TravelBDX Tourism Server
 
-Backend REST API for TravelBDX tourism management platform.
-
-## Features
-- JWT Authentication & Middleware Guards
-- MongoDB Atlas Database Integration
+## Core APIs
+- Auth: `POST /jwt`
+- Users: `GET /users`, `POST /users`
