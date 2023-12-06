@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## User APIs
-- `GET /users/:email` - Profile retrieval
+## Admin APIs
+- `GET /users/admin/:email` - Check admin privileges
