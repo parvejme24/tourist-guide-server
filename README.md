@@ -1,5 +1,4 @@
 # TravelBDX Tourism Server
 
-## Core APIs
-- Auth: `POST /jwt`
-- Users: `GET /users`, `POST /users`
+## User APIs
+- `GET /users/:email` - Profile retrieval
