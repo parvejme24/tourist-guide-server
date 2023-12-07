@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Role Management
-- `PATCH /users/admin/:id` - Promote to admin
+## Custom Roles
+- `PATCH /users/role/:id` - Assign tour_guide, admin, or user role
