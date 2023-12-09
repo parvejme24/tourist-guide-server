@@ -1,4 +1,5 @@
 # TravelBDX Tourism Server
 
-## Package APIs
-- `GET /packages` - List all tour packages with category filter
+## Search & Sort
+- Price ascending / descending sorting
+- Title and destination search
