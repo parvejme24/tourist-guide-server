@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## User Deletion
-- `DELETE /users/:id` - Remove user account
+## Package APIs
+- `GET /packages` - List all tour packages with category filter
