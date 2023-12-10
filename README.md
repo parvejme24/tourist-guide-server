@@ -1,5 +1,4 @@
 # TravelBDX Tourism Server
 
-## Single Package
-- `GET /packages/:id`
-- `GET /packages/category/:tourType`
+## Zero File Storage
+- Packages store direct Unsplash links in `coverImage` and `galleryImages`.
