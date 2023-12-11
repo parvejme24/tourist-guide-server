@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Update Package
-- `PATCH /packages/:id` - Incremental update
+## Replace Package
+- `PUT /packages/:id` - Full package replacement
