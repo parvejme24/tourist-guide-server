@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Replace Package
-- `PUT /packages/:id` - Full package replacement
+## Delete Package
+- `DELETE /packages/:id`
