@@ -1,4 +1,5 @@
 # TravelBDX Tourism Server
 
-## Delete Package
-- `DELETE /packages/:id`
+## Tour Guides
+- `GET /tourGuides`
+- `GET /tourGuides/:id`
