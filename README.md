@@ -1,5 +1,4 @@
 # TravelBDX Tourism Server
 
-## Tour Guides
-- `GET /tourGuides`
-- `GET /tourGuides/:id`
+## Add Guide
+- `POST /tourGuides` with direct profile photo link
