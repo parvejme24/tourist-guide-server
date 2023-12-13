@@ -1,5 +1,4 @@
 # TravelBDX Tourism Server
 
-## Guide Management
-- `PATCH /tourGuides/:id`
-- `DELETE /tourGuides/:id`
+## Guide Profile Schema
+- rating, toursCompleted, specialty, education, languages
