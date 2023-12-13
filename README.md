@@ -1,4 +1,5 @@
 # TravelBDX Tourism Server
 
-## Add Guide
-- `POST /tourGuides` with direct profile photo link
+## Guide Management
+- `PATCH /tourGuides/:id`
+- `DELETE /tourGuides/:id`
