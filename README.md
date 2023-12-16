@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Cancel Booking
-- `DELETE /bookings/:id`
+## Wishlist
+- `GET /wish` with user email
