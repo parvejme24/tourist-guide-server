@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Wishlist
-- `GET /wish` with user email
+## Manage Wishlist
+- `POST /wish` & `DELETE /wish/:id`
