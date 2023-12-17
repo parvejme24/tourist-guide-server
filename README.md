@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Manage Wishlist
-- `POST /wish` & `DELETE /wish/:id`
+## Tourist Stories
+- `GET /touristStory` - Memoirs and experiences
