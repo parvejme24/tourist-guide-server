@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Share Story
-- `POST /touristStory` with direct image URL
+## Story Likes
+- `PATCH /touristStory/:id` increments likes counter
