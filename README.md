@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Remove Story
-- `DELETE /touristStory/:id`
+## Blogs
+- `GET /blogs` - Travel tips and eco-tourism guides
