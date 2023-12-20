@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Editorial Blog Management
-- `POST /blogs` & `DELETE /blogs/:id`
+## Platform Metrics
+- `GET /admin-stats` - users, packages, bookings, guides, stories
