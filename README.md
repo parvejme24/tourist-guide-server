@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Platform Metrics
-- `GET /admin-stats` - users, packages, bookings, guides, stories
+## Mission Overview
+- `GET /overview` - platform highlights and video tour
