@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Mission Overview
-- `GET /overview` - platform highlights and video tour
+## Node Compatibility
+- Buffer.SlowBuffer polyfill for Node.js v26+
