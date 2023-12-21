@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Node Compatibility
-- Buffer.SlowBuffer polyfill for Node.js v26+
+## Database Configuration
+- `DB_URL` loaded from `.env` with fallback cluster
