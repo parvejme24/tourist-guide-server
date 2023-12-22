@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Database Configuration
-- `DB_URL` loaded from `.env` with fallback cluster
+## Demo Packages
+- 6 Bangladeshi tour packages with direct Unsplash images
