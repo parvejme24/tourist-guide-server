@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Demo Users & Guides
-- Admin, tour guides, and regular user accounts
+## Full Demo Dataset
+- Packages, users, guides, bookings, wishlist, stories, blogs, overview
