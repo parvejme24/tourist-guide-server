@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Full Demo Dataset
-- Packages, users, guides, bookings, wishlist, stories, blogs, overview
+## Seed Endpoints
+- `POST /seed-demo-data` & `GET /seed-demo-data`
