@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Seed Endpoints
-- `POST /seed-demo-data` & `GET /seed-demo-data`
+## Environment Reset
+- `POST /reset-demo-data` restores clean initial demo state
