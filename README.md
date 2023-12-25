@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## Resilient Engine
-- Operates with MongoDB Atlas when online, seamlessly falls back to demo store when offline
+## In-Memory Query Engine
+- Supports regex search, $or conditions, and safe ObjectId resolution
