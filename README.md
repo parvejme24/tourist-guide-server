@@ -1,4 +1,4 @@
 # TravelBDX Tourism Server
 
-## API Documentation
-- Complete route directory served from `GET /`
+## Automated Testing
+- Test runner for health check, auth, and CRUD endpoints
