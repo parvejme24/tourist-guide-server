@@ -1,4 +1,6 @@
 # TravelBDX Tourism Server
 
-## Automated Testing
-- Test runner for health check, auth, and CRUD endpoints
+## Test Coverage
+- Packages CRUD assertions
+- Users CRUD assertions
+- Tour Guides CRUD assertions
