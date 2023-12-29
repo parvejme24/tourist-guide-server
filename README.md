@@ -1,5 +1,6 @@
 # TravelBDX Tourism Server
 
-## Bookings & Wishlist Tests
-- User booking lifecycle
-- Wishlist add & remove
+## Content & Analytics Tests
+- Stories like increment
+- Blogs query
+- Admin statistics count
