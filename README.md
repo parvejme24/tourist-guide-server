@@ -2,6 +2,10 @@
 
 High-performance REST API backend for the TravelBDX Tourism Management System.
 
+[![Release](https://img.shields.io/badge/release-v1.0.0-green.svg)](https://github.com/parvejme24/tourist-guide-server)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![Tests](https://img.shields.io/badge/tests-57%20passed-brightgreen.svg)]()
+
 ## Technology Stack
 - **Runtime**: Node.js (v18 - v26+ compatible)
 - **Framework**: Express.js
